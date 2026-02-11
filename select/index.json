@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Nobody (from Kaiju No. 8) [Official Music Video]",
+  "base_artist": "OneRepublic",
+  "createdAt": "2026-02-11T10:33:59.789780Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nobody (from Kaiju No",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/01_Nobody_(from_Kaiju_No_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nobody (from Kaiju No. 8)",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/02_Nobody_(from_Kaiju_No._8)_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nobody (from Kaiju No. 8)",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/03_Nobody_(from_Kaiju_No._8)_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nobody (from Kaiju No. 8)",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/04_Nobody_(from_Kaiju_No._8)_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nobody (from Kaiju No. 8)",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/05_Nobody_(from_Kaiju_No._8)_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nobody (From Kaiju No․ 8)",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/06_Nobody_(From_Kaiju_No._8)_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nobody - from Kaiju No. 8",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/07_Nobody_-_from_Kaiju_No._8_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nobody (from Kaiju No. 8)",
+      "artist": "One Republic",
+      "has_synced": true,
+      "path": "select/08_Nobody_(from_Kaiju_No._8)_One_Republic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nobody (From Kaiju No. 8 acoustic)",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/09_Nobody_(From_Kaiju_No._8_acoustic)_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nobody (from Kaiju No. 8) [Official Lyric Video]",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/10_Nobody_(from_Kaiju_No._8)_[Official_Lyric_Video]_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nobody (from Kaiju No. 8) [Official Lyric Video]",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/11_Nobody_(from_Kaiju_No._8)_[Official_Lyric_Video]_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nobody (from Kaiju No",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/12_Nobody_(from_Kaiju_No_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nobody (from Kaiju No. 8) [Official Music Video]",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/13_Nobody_(from_Kaiju_No._8)_[Official_Music_Video]_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nobody (from Kaiju No. 8) [Official Music Video]",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/14_Nobody_(from_Kaiju_No._8)_[Official_Music_Video]_OneRepublic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nobody (from Kaiju No. 8)",
+      "artist": "OneRepublic",
+      "has_synced": false,
+      "path": "select/pl_01_Nobody_(from_Kaiju_No._8)_OneRepublic.txt"
+    }
+  ]
+}
